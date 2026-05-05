@@ -64,23 +64,11 @@
 [Pick Card Not Decrease (SF2)]
 04000000 01A12174 5100018C
 
-[Note: For the next code, change '00000178' to your desired card ID]
-20000000
+[!NOTE]
+For the 'Card After Battle Modifier' code, change '00000178' to your desired card ID
 
-[Dummy]
-FF100000
-
-[Note: For the next code, change '00000178' to your desired card ID end]
-20000001
-
-[Note: Card IDs can be found at https://pastebin.com/TPZn9ecp]
-20000000
-
-[Dummy]
-FF100000
-
-[Note: Card IDs can be found at https://pastebin.com/TPZn9ecp end]
-20000001
+[!NOTE]
+Card IDs can be found at https://pastebin.com/TPZn9ecp
 
 [Card After Battle Modifier]
 58050000 0DA704E0
